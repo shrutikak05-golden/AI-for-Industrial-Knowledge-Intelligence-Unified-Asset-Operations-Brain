@@ -2,6 +2,7 @@
 ## Unified Asset & Operations Brain
 
 An AI-powered platform that helps industries access plant knowledge, SOPs, maintenance manuals, reports, and operational data through a unified intelligent assistant.
+This project provides an AI-powered industrial knowledge intelligence platform for managing assets, operations, and maintenance information efficiently.
 
 ### Features
 - AI Knowledge Search
@@ -20,3 +21,6 @@ The system helps industries access manuals, SOPs, reports, and operational insig
 
 ### Contributor
 - github username Shreyas942
+
+- ### Contributer
+ prachimjadhav4
