@@ -13,3 +13,10 @@ An AI-powered platform that helps industries access plant knowledge, SOPs, maint
 
 ### Contributors
 - Your Name teja1742006
+
+## Project Enhancement
+
+The system helps industries access manuals, SOPs, reports, and operational insights through a unified AI interface.
+
+### Contributor
+- github username Shreyas942
